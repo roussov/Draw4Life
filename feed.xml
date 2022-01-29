@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>draw4life</title>
+    <link href="https://vincentrs92.github.io/Draw4Life/feed.xml" rel="self" />
+    <link href="https://vincentrs92.github.io/Draw4Life" />
+    <updated>2022-01-29T19:28:18+01:00</updated>
+    <author>
+        <name>v_draw</name>
+    </author>
+    <id>https://vincentrs92.github.io/Draw4Life</id>
+
+    <entry>
+        <title>Bienvenue sur Draw4Life</title>
+        <author>
+            <name>v_draw</name>
+        </author>
+        <link href="https://vincentrs92.github.io/Draw4Life/bienvenue-sur-draw4life.html"/>
+        <id>https://vincentrs92.github.io/Draw4Life/bienvenue-sur-draw4life.html</id>
+
+        <updated>2022-01-29T19:28:18+01:00</updated>
+            <summary>
+                <![CDATA[
+                     Vieux loup de mer. ,&nbsp; L'idée de créer le site Draw4Life m'est venue lorsque je me suis remis à dessiner. Entre temps je me suis mis à m'intéresser à l'art sous toutes ses formes. Sur ce site maintenant vous pourrez consulter&nbsp; les artistes regroupés&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://vincentrs92.github.io/Draw4Life/media/posts/1/IMG-20211218-WA0005.jpeg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://vincentrs92.github.io/Draw4Life/media/posts/1/responsive/IMG-20211218-WA0005-xs.jpeg 300w ,https://vincentrs92.github.io/Draw4Life/media/posts/1/responsive/IMG-20211218-WA0005-sm.jpeg 480w ,https://vincentrs92.github.io/Draw4Life/media/posts/1/responsive/IMG-20211218-WA0005-md.jpeg 768w ,https://vincentrs92.github.io/Draw4Life/media/posts/1/responsive/IMG-20211218-WA0005-lg.jpeg 1024w ,https://vincentrs92.github.io/Draw4Life/media/posts/1/responsive/IMG-20211218-WA0005-xl.jpeg 1360w ,https://vincentrs92.github.io/Draw4Life/media/posts/1/responsive/IMG-20211218-WA0005-2xl.jpeg 1600w"  height="1519" width="1998" alt="" />
+      <figcaption>Vieux loup de mer.</figcaption>
+    </figure>
+
+  <p>
+    ,&nbsp;
+  </p>
+
+    <figure class="blockquote">
+      <blockquote>Tandis que tout avance autour de lui. <br>Le vieil homme reste bercé par les vagues
+<br>de son cœur. <br>Aucune amertume juste une simple nostalgie.</blockquote>
+      <figcaption>Vincent R.</figcaption>
+    </figure>
+<hr class="separator separator--dots" />
+
+  <p>
+    L'idée de créer le site Draw4Life m'est venue lorsque je me suis remis à dessiner.
+  </p>
+
+  <p>
+    Entre temps je me suis mis à m'intéresser à l'art sous toutes ses formes.
+  </p>
+
+  <p>
+    Sur ce site maintenant vous pourrez consulter&nbsp;
+  </p>
+
+  <p>
+    les artistes regroupés en fonction de leurs styles
+  </p>
+
+  <p>
+    les musées à ne pas oublier quand on visite une ville.
+  </p>
+
+  <p>
+    
+  </p>
+<hr class="separator separator--dots" />
+
+  <p>
+    Vous pouvez aussi me confier une photo d'un de vos travaux que je pourrais&nbsp;
+  </p>
+
+  <p>
+    mettre en valeur sur le site.
+  </p>
+
+    <figure class="blockquote">
+      <blockquote>Draw4Life est avant tout site de partage<br></blockquote>
+      <figcaption>Vincent R.</figcaption>
+    </figure>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://vincentrs92.github.io/Draw4Life/media/posts/1/Logo-theatre-personnage-graphique-nudemarron-et-orange.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://vincentrs92.github.io/Draw4Life/media/posts/1/responsive/Logo-theatre-personnage-graphique-nudemarron-et-orange-xs.png 300w ,https://vincentrs92.github.io/Draw4Life/media/posts/1/responsive/Logo-theatre-personnage-graphique-nudemarron-et-orange-sm.png 480w ,https://vincentrs92.github.io/Draw4Life/media/posts/1/responsive/Logo-theatre-personnage-graphique-nudemarron-et-orange-md.png 768w ,https://vincentrs92.github.io/Draw4Life/media/posts/1/responsive/Logo-theatre-personnage-graphique-nudemarron-et-orange-lg.png 1024w ,https://vincentrs92.github.io/Draw4Life/media/posts/1/responsive/Logo-theatre-personnage-graphique-nudemarron-et-orange-xl.png 1360w ,https://vincentrs92.github.io/Draw4Life/media/posts/1/responsive/Logo-theatre-personnage-graphique-nudemarron-et-orange-2xl.png 1600w"  height="500" width="500" alt="" />
+      
+    </figure>
+            ]]>
+        </content>
+    </entry>
+</feed>
