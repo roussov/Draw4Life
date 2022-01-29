@@ -14,14 +14,13 @@
             "id": "https://vincentrs92.github.io/Draw4Life/bienvenue.html",
             "url": "https://vincentrs92.github.io/Draw4Life/bienvenue.html",
             "title": "Bienvenue",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://vincentrs92.github.io/Draw4Life/media/posts/11/couverture.png\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://vincentrs92.github.io/Draw4Life/media/posts/11/responsive/couverture-xs.png 300w ,https://vincentrs92.github.io/Draw4Life/media/posts/11/responsive/couverture-sm.png 480w ,https://vincentrs92.github.io/Draw4Life/media/posts/11/responsive/couverture-md.png 768w ,https://vincentrs92.github.io/Draw4Life/media/posts/11/responsive/couverture-lg.png 1024w ,https://vincentrs92.github.io/Draw4Life/media/posts/11/responsive/couverture-xl.png 1360w ,https://vincentrs92.github.io/Draw4Life/media/posts/11/responsive/couverture-2xl.png 1600w\"  alt=\"\" width=\"851\" height=\"315\"></figure>",
             "author": {
                 "name": "v_draw"
             },
             "tags": [
             ],
             "date_published": "2022-01-29T23:40:16+01:00",
-            "date_modified": "2022-01-29T23:42:37+01:00"
+            "date_modified": "2022-01-29T23:45:38+01:00"
         },
         {
             "id": "https://vincentrs92.github.io/Draw4Life/paris-expositions.html",
