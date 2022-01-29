@@ -122,13 +122,15 @@
             "id": "https://vincentrs92.github.io/Draw4Life/fevrier.html",
             "url": "https://vincentrs92.github.io/Draw4Life/fevrier.html",
             "title": "Février",
+            "summary": " Tandis que tout avance autour de lui. Le vieil homme reste bercé par les vagues de son cœur. Aucune amertume juste une simple nostalgie. ",
+            "content_html": "<blockquote>\n<p>Tandis que tout avance autour de lui. <br>Le vieil homme reste bercé par les vagues <br>de son cœur. <br>Aucune amertume juste une simple nostalgie.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://vincentrs92.github.io/Draw4Life/media/posts/2/IMG-20211218-WA0005.jpeg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://vincentrs92.github.io/Draw4Life/media/posts/2/responsive/IMG-20211218-WA0005-xs.jpeg 300w ,https://vincentrs92.github.io/Draw4Life/media/posts/2/responsive/IMG-20211218-WA0005-sm.jpeg 480w ,https://vincentrs92.github.io/Draw4Life/media/posts/2/responsive/IMG-20211218-WA0005-md.jpeg 768w ,https://vincentrs92.github.io/Draw4Life/media/posts/2/responsive/IMG-20211218-WA0005-lg.jpeg 1024w ,https://vincentrs92.github.io/Draw4Life/media/posts/2/responsive/IMG-20211218-WA0005-xl.jpeg 1360w ,https://vincentrs92.github.io/Draw4Life/media/posts/2/responsive/IMG-20211218-WA0005-2xl.jpeg 1600w\"  alt=\"Le vieux loup de Mer\" width=\"1998\" height=\"1519\"></figure>\n</blockquote>",
             "author": {
                 "name": "v_draw"
             },
             "tags": [
             ],
             "date_published": "2022-01-29T23:29:26+01:00",
-            "date_modified": "2022-01-29T23:29:26+01:00"
+            "date_modified": "2022-01-29T23:48:01+01:00"
         }
     ]
 }

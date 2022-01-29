@@ -3,7 +3,7 @@
     <title>draw4life</title>
     <link href="https://vincentrs92.github.io/Draw4Life/feed.xml" rel="self" />
     <link href="https://vincentrs92.github.io/Draw4Life" />
-    <updated>2022-01-29T23:45:38+01:00</updated>
+    <updated>2022-01-29T23:48:01+01:00</updated>
     <author>
         <name>v_draw</name>
     </author>
@@ -125,8 +125,19 @@
         <link href="https://vincentrs92.github.io/Draw4Life/fevrier.html"/>
         <id>https://vincentrs92.github.io/Draw4Life/fevrier.html</id>
 
-        <updated>2022-01-29T23:29:26+01:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2022-01-29T23:48:01+01:00</updated>
+            <summary>
+                <![CDATA[
+                     Tandis que tout avance autour de lui. Le vieil homme reste bercé par les vagues de son cœur. Aucune amertume juste une simple nostalgie. 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <blockquote>
+<p>Tandis que tout avance autour de lui. <br>Le vieil homme reste bercé par les vagues <br>de son cœur. <br>Aucune amertume juste une simple nostalgie.</p>
+<figure class="post__image"><img loading="lazy"  src="https://vincentrs92.github.io/Draw4Life/media/posts/2/IMG-20211218-WA0005.jpeg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://vincentrs92.github.io/Draw4Life/media/posts/2/responsive/IMG-20211218-WA0005-xs.jpeg 300w ,https://vincentrs92.github.io/Draw4Life/media/posts/2/responsive/IMG-20211218-WA0005-sm.jpeg 480w ,https://vincentrs92.github.io/Draw4Life/media/posts/2/responsive/IMG-20211218-WA0005-md.jpeg 768w ,https://vincentrs92.github.io/Draw4Life/media/posts/2/responsive/IMG-20211218-WA0005-lg.jpeg 1024w ,https://vincentrs92.github.io/Draw4Life/media/posts/2/responsive/IMG-20211218-WA0005-xl.jpeg 1360w ,https://vincentrs92.github.io/Draw4Life/media/posts/2/responsive/IMG-20211218-WA0005-2xl.jpeg 1600w"  alt="Le vieux loup de Mer" width="1998" height="1519"></figure>
+</blockquote>
+            ]]>
+        </content>
     </entry>
 </feed>
