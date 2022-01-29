@@ -5,23 +5,132 @@
     "home_page_url": "https://vincentrs92.github.io/Draw4Life",
     "feed_url": "https://vincentrs92.github.io/Draw4Life/feed.json",
     "user_comment": "",
+    "icon": "https://vincentrs92.github.io/Draw4Life/media/website/couverture.png",
     "author": {
         "name": "v_draw"
     },
     "items": [
         {
+            "id": "https://vincentrs92.github.io/Draw4Life/paris-expositions.html",
+            "url": "https://vincentrs92.github.io/Draw4Life/paris-expositions.html",
+            "title": "Paris [expositions]",
+            "author": {
+                "name": "v_draw"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-01-29T23:34:54+01:00",
+            "date_modified": "2022-01-29T23:34:54+01:00"
+        },
+        {
+            "id": "https://vincentrs92.github.io/Draw4Life/expositions-permanentes.html",
+            "url": "https://vincentrs92.github.io/Draw4Life/expositions-permanentes.html",
+            "title": "Expositions Permanentes",
+            "author": {
+                "name": "v_draw"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-01-29T23:34:21+01:00",
+            "date_modified": "2022-01-29T23:35:03+01:00"
+        },
+        {
+            "id": "https://vincentrs92.github.io/Draw4Life/dessins-du-mois.html",
+            "url": "https://vincentrs92.github.io/Draw4Life/dessins-du-mois.html",
+            "title": "Dessins du mois",
+            "author": {
+                "name": "v_draw"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-01-29T23:34:06+01:00",
+            "date_modified": "2022-01-29T23:34:06+01:00"
+        },
+        {
+            "id": "https://vincentrs92.github.io/Draw4Life/juillet.html",
+            "url": "https://vincentrs92.github.io/Draw4Life/juillet.html",
+            "title": "Juillet",
+            "author": {
+                "name": "v_draw"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-01-29T23:30:01+01:00",
+            "date_modified": "2022-01-29T23:30:01+01:00"
+        },
+        {
+            "id": "https://vincentrs92.github.io/Draw4Life/juin.html",
+            "url": "https://vincentrs92.github.io/Draw4Life/juin.html",
+            "title": "Juin",
+            "author": {
+                "name": "v_draw"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-01-29T23:29:52+01:00",
+            "date_modified": "2022-01-29T23:29:52+01:00"
+        },
+        {
+            "id": "https://vincentrs92.github.io/Draw4Life/mai.html",
+            "url": "https://vincentrs92.github.io/Draw4Life/mai.html",
+            "title": "Mai",
+            "author": {
+                "name": "v_draw"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-01-29T23:29:45+01:00",
+            "date_modified": "2022-01-29T23:29:45+01:00"
+        },
+        {
+            "id": "https://vincentrs92.github.io/Draw4Life/avril.html",
+            "url": "https://vincentrs92.github.io/Draw4Life/avril.html",
+            "title": "Avril",
+            "author": {
+                "name": "v_draw"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-01-29T23:29:41+01:00",
+            "date_modified": "2022-01-29T23:29:41+01:00"
+        },
+        {
+            "id": "https://vincentrs92.github.io/Draw4Life/mars.html",
+            "url": "https://vincentrs92.github.io/Draw4Life/mars.html",
+            "title": "Mars",
+            "author": {
+                "name": "v_draw"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-01-29T23:29:33+01:00",
+            "date_modified": "2022-01-29T23:29:33+01:00"
+        },
+        {
+            "id": "https://vincentrs92.github.io/Draw4Life/fevrier.html",
+            "url": "https://vincentrs92.github.io/Draw4Life/fevrier.html",
+            "title": "Février",
+            "author": {
+                "name": "v_draw"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-01-29T23:29:26+01:00",
+            "date_modified": "2022-01-29T23:29:26+01:00"
+        },
+        {
             "id": "https://vincentrs92.github.io/Draw4Life/bienvenue-sur-draw4life.html",
             "url": "https://vincentrs92.github.io/Draw4Life/bienvenue-sur-draw4life.html",
-            "title": "Bienvenue sur Draw4Life",
-            "summary": " Vieux loup de mer. ,&nbsp; L'idée de créer le site Draw4Life m'est venue lorsque je me suis remis à dessiner. Entre temps je me suis mis à m'intéresser à l'art sous toutes ses formes. Sur ce site maintenant vous pourrez consulter&nbsp; les artistes regroupés&hellip;",
-            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://vincentrs92.github.io/Draw4Life/media/posts/1/IMG-20211218-WA0005.jpeg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://vincentrs92.github.io/Draw4Life/media/posts/1/responsive/IMG-20211218-WA0005-xs.jpeg 300w ,https://vincentrs92.github.io/Draw4Life/media/posts/1/responsive/IMG-20211218-WA0005-sm.jpeg 480w ,https://vincentrs92.github.io/Draw4Life/media/posts/1/responsive/IMG-20211218-WA0005-md.jpeg 768w ,https://vincentrs92.github.io/Draw4Life/media/posts/1/responsive/IMG-20211218-WA0005-lg.jpeg 1024w ,https://vincentrs92.github.io/Draw4Life/media/posts/1/responsive/IMG-20211218-WA0005-xl.jpeg 1360w ,https://vincentrs92.github.io/Draw4Life/media/posts/1/responsive/IMG-20211218-WA0005-2xl.jpeg 1600w\"  height=\"1519\" width=\"1998\" alt=\"\" />\n      <figcaption>Vieux loup de mer.</figcaption>\n    </figure>\n\n  <p>\n    ,&nbsp;\n  </p>\n\n    <figure class=\"blockquote\">\n      <blockquote>Tandis que tout avance autour de lui. <br>Le vieil homme reste bercé par les vagues\n<br>de son cœur. <br>Aucune amertume juste une simple nostalgie.</blockquote>\n      <figcaption>Vincent R.</figcaption>\n    </figure>\n<hr class=\"separator separator--dots\" />\n\n  <p>\n    L'idée de créer le site Draw4Life m'est venue lorsque je me suis remis à dessiner.\n  </p>\n\n  <p>\n    Entre temps je me suis mis à m'intéresser à l'art sous toutes ses formes.\n  </p>\n\n  <p>\n    Sur ce site maintenant vous pourrez consulter&nbsp;\n  </p>\n\n  <p>\n    les artistes regroupés en fonction de leurs styles\n  </p>\n\n  <p>\n    les musées à ne pas oublier quand on visite une ville.\n  </p>\n\n  <p>\n    \n  </p>\n<hr class=\"separator separator--dots\" />\n\n  <p>\n    Vous pouvez aussi me confier une photo d'un de vos travaux que je pourrais&nbsp;\n  </p>\n\n  <p>\n    mettre en valeur sur le site.\n  </p>\n\n    <figure class=\"blockquote\">\n      <blockquote>Draw4Life est avant tout site de partage<br></blockquote>\n      <figcaption>Vincent R.</figcaption>\n    </figure>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://vincentrs92.github.io/Draw4Life/media/posts/1/Logo-theatre-personnage-graphique-nudemarron-et-orange.png\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://vincentrs92.github.io/Draw4Life/media/posts/1/responsive/Logo-theatre-personnage-graphique-nudemarron-et-orange-xs.png 300w ,https://vincentrs92.github.io/Draw4Life/media/posts/1/responsive/Logo-theatre-personnage-graphique-nudemarron-et-orange-sm.png 480w ,https://vincentrs92.github.io/Draw4Life/media/posts/1/responsive/Logo-theatre-personnage-graphique-nudemarron-et-orange-md.png 768w ,https://vincentrs92.github.io/Draw4Life/media/posts/1/responsive/Logo-theatre-personnage-graphique-nudemarron-et-orange-lg.png 1024w ,https://vincentrs92.github.io/Draw4Life/media/posts/1/responsive/Logo-theatre-personnage-graphique-nudemarron-et-orange-xl.png 1360w ,https://vincentrs92.github.io/Draw4Life/media/posts/1/responsive/Logo-theatre-personnage-graphique-nudemarron-et-orange-2xl.png 1600w\"  height=\"500\" width=\"500\" alt=\"\" />\n      \n    </figure>",
+            "title": "Vieux loup de mer",
+            "summary": " Vieux loup de mer. ,&nbsp; . Réalisé avec de la peinture à l'huile. Draw4Life est avant tout site de partage Vincent R. ",
+            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://vincentrs92.github.io/Draw4Life/media/posts/1/IMG-20211218-WA0005.jpeg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://vincentrs92.github.io/Draw4Life/media/posts/1/responsive/IMG-20211218-WA0005-xs.jpeg 300w ,https://vincentrs92.github.io/Draw4Life/media/posts/1/responsive/IMG-20211218-WA0005-sm.jpeg 480w ,https://vincentrs92.github.io/Draw4Life/media/posts/1/responsive/IMG-20211218-WA0005-md.jpeg 768w ,https://vincentrs92.github.io/Draw4Life/media/posts/1/responsive/IMG-20211218-WA0005-lg.jpeg 1024w ,https://vincentrs92.github.io/Draw4Life/media/posts/1/responsive/IMG-20211218-WA0005-xl.jpeg 1360w ,https://vincentrs92.github.io/Draw4Life/media/posts/1/responsive/IMG-20211218-WA0005-2xl.jpeg 1600w\"  height=\"1519\" width=\"1998\" alt=\"\" />\n      <figcaption>Vieux loup de mer.</figcaption>\n    </figure>\n\n  <p>\n    ,&nbsp;\n  </p>\n\n    <figure class=\"blockquote\">\n      <blockquote>Tandis que tout avance autour de lui. <br>Le vieil homme reste bercé par les vagues\n<br>de son cœur. <br>Aucune amertume juste une simple nostalgie.</blockquote>\n      <figcaption>Vincent R.</figcaption>\n    </figure>\n<hr class=\"separator separator--dots\" />\n\n  <p>\n    .\n  </p>\n\n  <p>\n    Réalisé avec de la peinture à l'huile.\n  </p>\n\n  <p>\n    \n  </p>\n<hr class=\"separator separator--dots\" />\n\n  <p>\n    \n  </p>\n\n    <figure class=\"blockquote\">\n      <blockquote>Draw4Life est avant tout site de partage<br></blockquote>\n      <figcaption>Vincent R.</figcaption>\n    </figure>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://vincentrs92.github.io/Draw4Life/media/posts/1/Logo-theatre-personnage-graphique-nudemarron-et-orange.png\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://vincentrs92.github.io/Draw4Life/media/posts/1/responsive/Logo-theatre-personnage-graphique-nudemarron-et-orange-xs.png 300w ,https://vincentrs92.github.io/Draw4Life/media/posts/1/responsive/Logo-theatre-personnage-graphique-nudemarron-et-orange-sm.png 480w ,https://vincentrs92.github.io/Draw4Life/media/posts/1/responsive/Logo-theatre-personnage-graphique-nudemarron-et-orange-md.png 768w ,https://vincentrs92.github.io/Draw4Life/media/posts/1/responsive/Logo-theatre-personnage-graphique-nudemarron-et-orange-lg.png 1024w ,https://vincentrs92.github.io/Draw4Life/media/posts/1/responsive/Logo-theatre-personnage-graphique-nudemarron-et-orange-xl.png 1360w ,https://vincentrs92.github.io/Draw4Life/media/posts/1/responsive/Logo-theatre-personnage-graphique-nudemarron-et-orange-2xl.png 1600w\"  height=\"500\" width=\"500\" alt=\"\" />\n      \n    </figure>",
             "author": {
                 "name": "v_draw"
             },
             "tags": [
             ],
             "date_published": "2022-01-29T18:50:52+01:00",
-            "date_modified": "2022-01-29T19:28:18+01:00"
+            "date_modified": "2022-01-29T23:09:00+01:00"
         }
     ]
 }
