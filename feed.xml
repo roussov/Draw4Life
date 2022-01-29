@@ -3,12 +3,28 @@
     <title>draw4life</title>
     <link href="https://vincentrs92.github.io/Draw4Life/feed.xml" rel="self" />
     <link href="https://vincentrs92.github.io/Draw4Life" />
-    <updated>2022-01-29T23:35:03+01:00</updated>
+    <updated>2022-01-29T23:42:37+01:00</updated>
     <author>
         <name>v_draw</name>
     </author>
     <id>https://vincentrs92.github.io/Draw4Life</id>
 
+    <entry>
+        <title>Bienvenue</title>
+        <author>
+            <name>v_draw</name>
+        </author>
+        <link href="https://vincentrs92.github.io/Draw4Life/bienvenue.html"/>
+        <id>https://vincentrs92.github.io/Draw4Life/bienvenue.html</id>
+
+        <updated>2022-01-29T23:42:37+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://vincentrs92.github.io/Draw4Life/media/posts/11/couverture.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://vincentrs92.github.io/Draw4Life/media/posts/11/responsive/couverture-xs.png 300w ,https://vincentrs92.github.io/Draw4Life/media/posts/11/responsive/couverture-sm.png 480w ,https://vincentrs92.github.io/Draw4Life/media/posts/11/responsive/couverture-md.png 768w ,https://vincentrs92.github.io/Draw4Life/media/posts/11/responsive/couverture-lg.png 1024w ,https://vincentrs92.github.io/Draw4Life/media/posts/11/responsive/couverture-xl.png 1360w ,https://vincentrs92.github.io/Draw4Life/media/posts/11/responsive/couverture-2xl.png 1600w"  alt="" width="851" height="315"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Paris [expositions]</title>
         <author>
@@ -116,67 +132,5 @@
         <updated>2022-01-29T23:29:26+01:00</updated>
             <summary></summary>
         <content></content>
-    </entry>
-    <entry>
-        <title>Vieux loup de mer</title>
-        <author>
-            <name>v_draw</name>
-        </author>
-        <link href="https://vincentrs92.github.io/Draw4Life/bienvenue-sur-draw4life.html"/>
-        <id>https://vincentrs92.github.io/Draw4Life/bienvenue-sur-draw4life.html</id>
-
-        <updated>2022-01-29T23:09:00+01:00</updated>
-            <summary>
-                <![CDATA[
-                     Vieux loup de mer. ,&nbsp; . Réalisé avec de la peinture à l'huile. Draw4Life est avant tout site de partage Vincent R. 
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://vincentrs92.github.io/Draw4Life/media/posts/1/IMG-20211218-WA0005.jpeg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://vincentrs92.github.io/Draw4Life/media/posts/1/responsive/IMG-20211218-WA0005-xs.jpeg 300w ,https://vincentrs92.github.io/Draw4Life/media/posts/1/responsive/IMG-20211218-WA0005-sm.jpeg 480w ,https://vincentrs92.github.io/Draw4Life/media/posts/1/responsive/IMG-20211218-WA0005-md.jpeg 768w ,https://vincentrs92.github.io/Draw4Life/media/posts/1/responsive/IMG-20211218-WA0005-lg.jpeg 1024w ,https://vincentrs92.github.io/Draw4Life/media/posts/1/responsive/IMG-20211218-WA0005-xl.jpeg 1360w ,https://vincentrs92.github.io/Draw4Life/media/posts/1/responsive/IMG-20211218-WA0005-2xl.jpeg 1600w"  height="1519" width="1998" alt="" />
-      <figcaption>Vieux loup de mer.</figcaption>
-    </figure>
-
-  <p>
-    ,&nbsp;
-  </p>
-
-    <figure class="blockquote">
-      <blockquote>Tandis que tout avance autour de lui. <br>Le vieil homme reste bercé par les vagues
-<br>de son cœur. <br>Aucune amertume juste une simple nostalgie.</blockquote>
-      <figcaption>Vincent R.</figcaption>
-    </figure>
-<hr class="separator separator--dots" />
-
-  <p>
-    .
-  </p>
-
-  <p>
-    Réalisé avec de la peinture à l'huile.
-  </p>
-
-  <p>
-    
-  </p>
-<hr class="separator separator--dots" />
-
-  <p>
-    
-  </p>
-
-    <figure class="blockquote">
-      <blockquote>Draw4Life est avant tout site de partage<br></blockquote>
-      <figcaption>Vincent R.</figcaption>
-    </figure>
-
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://vincentrs92.github.io/Draw4Life/media/posts/1/Logo-theatre-personnage-graphique-nudemarron-et-orange.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://vincentrs92.github.io/Draw4Life/media/posts/1/responsive/Logo-theatre-personnage-graphique-nudemarron-et-orange-xs.png 300w ,https://vincentrs92.github.io/Draw4Life/media/posts/1/responsive/Logo-theatre-personnage-graphique-nudemarron-et-orange-sm.png 480w ,https://vincentrs92.github.io/Draw4Life/media/posts/1/responsive/Logo-theatre-personnage-graphique-nudemarron-et-orange-md.png 768w ,https://vincentrs92.github.io/Draw4Life/media/posts/1/responsive/Logo-theatre-personnage-graphique-nudemarron-et-orange-lg.png 1024w ,https://vincentrs92.github.io/Draw4Life/media/posts/1/responsive/Logo-theatre-personnage-graphique-nudemarron-et-orange-xl.png 1360w ,https://vincentrs92.github.io/Draw4Life/media/posts/1/responsive/Logo-theatre-personnage-graphique-nudemarron-et-orange-2xl.png 1600w"  height="500" width="500" alt="" />
-      
-    </figure>
-            ]]>
-        </content>
     </entry>
 </feed>
