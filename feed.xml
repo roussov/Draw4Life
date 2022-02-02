@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>draw4life</title>
-    <link href="https://vincentrs92.github.io/Draw4Life/feed.xml" rel="self" />
-    <link href="https://vincentrs92.github.io/Draw4Life" />
-    <updated>2022-02-02T19:18:19+01:00</updated>
+    <link href="https://draw4life.fr/feed.xml" rel="self" />
+    <link href="https://draw4life.fr" />
+    <updated>2022-02-02T23:42:41+01:00</updated>
     <author>
         <name>v_draw</name>
     </author>
-    <id>https://vincentrs92.github.io/Draw4Life</id>
+    <id>https://draw4life.fr</id>
 
     <entry>
         <title>Vincent Rousseau</title>
         <author>
             <name>v_draw</name>
         </author>
-        <link href="https://vincentrs92.github.io/Draw4Life/vincent-rousseau.html"/>
-        <id>https://vincentrs92.github.io/Draw4Life/vincent-rousseau.html</id>
+        <link href="https://draw4life.fr/vincent-rousseau.html"/>
+        <id>https://draw4life.fr/vincent-rousseau.html</id>
 
         <updated>2022-02-02T19:18:19+01:00</updated>
             <summary></summary>
@@ -26,8 +26,8 @@
         <author>
             <name>v_draw</name>
         </author>
-        <link href="https://vincentrs92.github.io/Draw4Life/contact.html"/>
-        <id>https://vincentrs92.github.io/Draw4Life/contact.html</id>
+        <link href="https://draw4life.fr/contact.html"/>
+        <id>https://draw4life.fr/contact.html</id>
 
         <updated>2022-02-02T19:16:23+01:00</updated>
             <summary></summary>
@@ -38,8 +38,8 @@
         <author>
             <name>v_draw</name>
         </author>
-        <link href="https://vincentrs92.github.io/Draw4Life/merci-a-vous.html"/>
-        <id>https://vincentrs92.github.io/Draw4Life/merci-a-vous.html</id>
+        <link href="https://draw4life.fr/merci-a-vous.html"/>
+        <id>https://draw4life.fr/merci-a-vous.html</id>
 
         <updated>2022-02-02T19:13:12+01:00</updated>
             <summary></summary>
@@ -50,8 +50,8 @@
         <author>
             <name>v_draw</name>
         </author>
-        <link href="https://vincentrs92.github.io/Draw4Life/archive-2022-2.html"/>
-        <id>https://vincentrs92.github.io/Draw4Life/archive-2022-2.html</id>
+        <link href="https://draw4life.fr/archive-2022-2.html"/>
+        <id>https://draw4life.fr/archive-2022-2.html</id>
 
         <updated>2022-02-02T19:11:40+01:00</updated>
             <summary></summary>
@@ -62,8 +62,8 @@
         <author>
             <name>v_draw</name>
         </author>
-        <link href="https://vincentrs92.github.io/Draw4Life/archive-2022.html"/>
-        <id>https://vincentrs92.github.io/Draw4Life/archive-2022.html</id>
+        <link href="https://draw4life.fr/archive-2022.html"/>
+        <id>https://draw4life.fr/archive-2022.html</id>
 
         <updated>2022-02-02T19:11:29+01:00</updated>
             <summary></summary>
@@ -74,8 +74,8 @@
         <author>
             <name>v_draw</name>
         </author>
-        <link href="https://vincentrs92.github.io/Draw4Life/contribution.html"/>
-        <id>https://vincentrs92.github.io/Draw4Life/contribution.html</id>
+        <link href="https://draw4life.fr/contribution.html"/>
+        <id>https://draw4life.fr/contribution.html</id>
 
         <updated>2022-02-02T19:15:29+01:00</updated>
             <summary></summary>
@@ -86,10 +86,10 @@
         <author>
             <name>v_draw</name>
         </author>
-        <link href="https://vincentrs92.github.io/Draw4Life/bienvenue.html"/>
-        <id>https://vincentrs92.github.io/Draw4Life/bienvenue.html</id>
+        <link href="https://draw4life.fr/bienvenue.html"/>
+        <id>https://draw4life.fr/bienvenue.html</id>
 
-        <updated>2022-02-02T19:08:23+01:00</updated>
+        <updated>2022-02-02T23:42:41+01:00</updated>
             <summary>
                 <![CDATA[
                     Draw4Life est un blog autour de l’art. Vous pouvez y trouver des œuvres d’artistes classées en fonction de leurs styles. Le site vous accompagne aussi lors de vos prochaines visites. Les articles liés aux visites présenteront les expositions permanentes dans la ville de votre choix.
@@ -115,7 +115,9 @@
 <p>Le site propose un espace réservé aux commentaires à la fin de chaque article.</p>
 <p>Le service s’appelle Disqus.</p>
 <p> </p>
-<figure class="post__image"><img loading="lazy"  src="https://vincentrs92.github.io/Draw4Life/media/posts/11/external-content.duckduckgo.com.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://vincentrs92.github.io/Draw4Life/media/posts/11/responsive/external-content.duckduckgo.com-xs.jpg 300w ,https://vincentrs92.github.io/Draw4Life/media/posts/11/responsive/external-content.duckduckgo.com-sm.jpg 480w ,https://vincentrs92.github.io/Draw4Life/media/posts/11/responsive/external-content.duckduckgo.com-md.jpg 768w ,https://vincentrs92.github.io/Draw4Life/media/posts/11/responsive/external-content.duckduckgo.com-lg.jpg 1024w ,https://vincentrs92.github.io/Draw4Life/media/posts/11/responsive/external-content.duckduckgo.com-xl.jpg 1360w ,https://vincentrs92.github.io/Draw4Life/media/posts/11/responsive/external-content.duckduckgo.com-2xl.jpg 1600w"  alt="The Autumn Of Central Paris [R.B. Kitaj]" width="1387" height="1468"></figure>
+<figure class="post__image" ><img loading="lazy" src="https://draw4life.fr/media/posts/11/external-content.duckduckgo.com.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://draw4life.fr/media/posts/11/responsive/external-content.duckduckgo.com-xs.jpg 300w ,https://draw4life.fr/media/posts/11/responsive/external-content.duckduckgo.com-sm.jpg 480w ,https://draw4life.fr/media/posts/11/responsive/external-content.duckduckgo.com-md.jpg 768w ,https://draw4life.fr/media/posts/11/responsive/external-content.duckduckgo.com-lg.jpg 1024w ,https://draw4life.fr/media/posts/11/responsive/external-content.duckduckgo.com-xl.jpg 1360w ,https://draw4life.fr/media/posts/11/responsive/external-content.duckduckgo.com-2xl.jpg 1600w"  alt="The Autumn Of Central Paris [R.B. Kitaj]" width="600" height="600">
+<figcaption ></figcaption>
+</figure>
 <p> </p>
 <p>Bonne visite à vous</p>
             ]]>
@@ -126,8 +128,8 @@
         <author>
             <name>v_draw</name>
         </author>
-        <link href="https://vincentrs92.github.io/Draw4Life/paris-expositions.html"/>
-        <id>https://vincentrs92.github.io/Draw4Life/paris-expositions.html</id>
+        <link href="https://draw4life.fr/paris-expositions.html"/>
+        <id>https://draw4life.fr/paris-expositions.html</id>
 
         <updated>2022-01-29T23:34:54+01:00</updated>
             <summary></summary>
@@ -138,8 +140,8 @@
         <author>
             <name>v_draw</name>
         </author>
-        <link href="https://vincentrs92.github.io/Draw4Life/expositions-permanentes.html"/>
-        <id>https://vincentrs92.github.io/Draw4Life/expositions-permanentes.html</id>
+        <link href="https://draw4life.fr/expositions-permanentes.html"/>
+        <id>https://draw4life.fr/expositions-permanentes.html</id>
 
         <updated>2022-01-29T23:35:03+01:00</updated>
             <summary></summary>
@@ -150,8 +152,8 @@
         <author>
             <name>v_draw</name>
         </author>
-        <link href="https://vincentrs92.github.io/Draw4Life/dessins-du-mois.html"/>
-        <id>https://vincentrs92.github.io/Draw4Life/dessins-du-mois.html</id>
+        <link href="https://draw4life.fr/dessins-du-mois.html"/>
+        <id>https://draw4life.fr/dessins-du-mois.html</id>
 
         <updated>2022-01-29T23:34:06+01:00</updated>
             <summary></summary>

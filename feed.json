@@ -2,17 +2,17 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "draw4life",
     "description": "",
-    "home_page_url": "https://vincentrs92.github.io/Draw4Life",
-    "feed_url": "https://vincentrs92.github.io/Draw4Life/feed.json",
+    "home_page_url": "https://draw4life.fr",
+    "feed_url": "https://draw4life.fr/feed.json",
     "user_comment": "",
-    "icon": "https://vincentrs92.github.io/Draw4Life/media/website/Logo-theatre-personnage-graphique-nudemarron-et-orange.png",
+    "icon": "https://draw4life.fr/media/website/Logo-theatre-personnage-graphique-nudemarron-et-orange.png",
     "author": {
         "name": "v_draw"
     },
     "items": [
         {
-            "id": "https://vincentrs92.github.io/Draw4Life/vincent-rousseau.html",
-            "url": "https://vincentrs92.github.io/Draw4Life/vincent-rousseau.html",
+            "id": "https://draw4life.fr/vincent-rousseau.html",
+            "url": "https://draw4life.fr/vincent-rousseau.html",
             "title": "Vincent Rousseau",
             "author": {
                 "name": "v_draw"
@@ -23,8 +23,8 @@
             "date_modified": "2022-02-02T19:18:19+01:00"
         },
         {
-            "id": "https://vincentrs92.github.io/Draw4Life/contact.html",
-            "url": "https://vincentrs92.github.io/Draw4Life/contact.html",
+            "id": "https://draw4life.fr/contact.html",
+            "url": "https://draw4life.fr/contact.html",
             "title": "Contact",
             "author": {
                 "name": "v_draw"
@@ -35,8 +35,8 @@
             "date_modified": "2022-02-02T19:16:23+01:00"
         },
         {
-            "id": "https://vincentrs92.github.io/Draw4Life/merci-a-vous.html",
-            "url": "https://vincentrs92.github.io/Draw4Life/merci-a-vous.html",
+            "id": "https://draw4life.fr/merci-a-vous.html",
+            "url": "https://draw4life.fr/merci-a-vous.html",
             "title": "Merci à vous",
             "author": {
                 "name": "v_draw"
@@ -47,8 +47,8 @@
             "date_modified": "2022-02-02T19:13:12+01:00"
         },
         {
-            "id": "https://vincentrs92.github.io/Draw4Life/archive-2022-2.html",
-            "url": "https://vincentrs92.github.io/Draw4Life/archive-2022-2.html",
+            "id": "https://draw4life.fr/archive-2022-2.html",
+            "url": "https://draw4life.fr/archive-2022-2.html",
             "title": "Archive 2022",
             "author": {
                 "name": "v_draw"
@@ -59,8 +59,8 @@
             "date_modified": "2022-02-02T19:11:40+01:00"
         },
         {
-            "id": "https://vincentrs92.github.io/Draw4Life/archive-2022.html",
-            "url": "https://vincentrs92.github.io/Draw4Life/archive-2022.html",
+            "id": "https://draw4life.fr/archive-2022.html",
+            "url": "https://draw4life.fr/archive-2022.html",
             "title": "Archives",
             "author": {
                 "name": "v_draw"
@@ -71,8 +71,8 @@
             "date_modified": "2022-02-02T19:11:29+01:00"
         },
         {
-            "id": "https://vincentrs92.github.io/Draw4Life/contribution.html",
-            "url": "https://vincentrs92.github.io/Draw4Life/contribution.html",
+            "id": "https://draw4life.fr/contribution.html",
+            "url": "https://draw4life.fr/contribution.html",
             "title": "Contributions",
             "author": {
                 "name": "v_draw"
@@ -83,22 +83,22 @@
             "date_modified": "2022-02-02T19:15:29+01:00"
         },
         {
-            "id": "https://vincentrs92.github.io/Draw4Life/bienvenue.html",
-            "url": "https://vincentrs92.github.io/Draw4Life/bienvenue.html",
+            "id": "https://draw4life.fr/bienvenue.html",
+            "url": "https://draw4life.fr/bienvenue.html",
             "title": "Bienvenue",
             "summary": "Draw4Life est un blog autour de l’art. Vous pouvez y trouver des œuvres d’artistes classées en fonction de leurs styles. Le site vous accompagne aussi lors de vos prochaines visites. Les articles liés aux visites présenteront les expositions permanentes dans la ville de votre choix.",
-            "content_html": "<p>Draw4Life est un blog autour de l’art.</p>\n<p>Vous pouvez y trouver des œuvres d’artistes classées en fonction de leurs styles.</p>\n<p>Le site vous accompagne aussi lors de vos prochaines visites. Les articles liés aux visites présenteront les expositions permanentes dans la ville de votre choix.</p>\n<p>Les expositions temporaires apparaîtront sur le fil d’actualité en fonction du mois de leurs parutions.</p>\n<p> </p>\n<hr>\n<p>Ici la contribution du visiteur est très importante.</p>\n<p>Votre rôle n’est pas limité, vous pouvez :</p>\n<ul>\n<li>Proposer des idées pour l’amélioration du contenu du site.</li>\n<li>Contribuer à la modification des articles. Votre nom apparaîtra sur la page de « Contribution du site ».</li>\n<li>Envoyer vos travaux (lire le règlement).</li>\n</ul>\n<p> </p>\n<p> </p>\n<p>Le site propose un espace réservé aux commentaires à la fin de chaque article.</p>\n<p>Le service s’appelle Disqus.</p>\n<p> </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://vincentrs92.github.io/Draw4Life/media/posts/11/external-content.duckduckgo.com.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://vincentrs92.github.io/Draw4Life/media/posts/11/responsive/external-content.duckduckgo.com-xs.jpg 300w ,https://vincentrs92.github.io/Draw4Life/media/posts/11/responsive/external-content.duckduckgo.com-sm.jpg 480w ,https://vincentrs92.github.io/Draw4Life/media/posts/11/responsive/external-content.duckduckgo.com-md.jpg 768w ,https://vincentrs92.github.io/Draw4Life/media/posts/11/responsive/external-content.duckduckgo.com-lg.jpg 1024w ,https://vincentrs92.github.io/Draw4Life/media/posts/11/responsive/external-content.duckduckgo.com-xl.jpg 1360w ,https://vincentrs92.github.io/Draw4Life/media/posts/11/responsive/external-content.duckduckgo.com-2xl.jpg 1600w\"  alt=\"The Autumn Of Central Paris [R.B. Kitaj]\" width=\"1387\" height=\"1468\"></figure>\n<p> </p>\n<p>Bonne visite à vous</p>",
+            "content_html": "<p>Draw4Life est un blog autour de l’art.</p>\n<p>Vous pouvez y trouver des œuvres d’artistes classées en fonction de leurs styles.</p>\n<p>Le site vous accompagne aussi lors de vos prochaines visites. Les articles liés aux visites présenteront les expositions permanentes dans la ville de votre choix.</p>\n<p>Les expositions temporaires apparaîtront sur le fil d’actualité en fonction du mois de leurs parutions.</p>\n<p> </p>\n<hr>\n<p>Ici la contribution du visiteur est très importante.</p>\n<p>Votre rôle n’est pas limité, vous pouvez :</p>\n<ul>\n<li>Proposer des idées pour l’amélioration du contenu du site.</li>\n<li>Contribuer à la modification des articles. Votre nom apparaîtra sur la page de « Contribution du site ».</li>\n<li>Envoyer vos travaux (lire le règlement).</li>\n</ul>\n<p> </p>\n<p> </p>\n<p>Le site propose un espace réservé aux commentaires à la fin de chaque article.</p>\n<p>Le service s’appelle Disqus.</p>\n<p> </p>\n<figure class=\"post__image\" ><img loading=\"lazy\" src=\"https://draw4life.fr/media/posts/11/external-content.duckduckgo.com.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://draw4life.fr/media/posts/11/responsive/external-content.duckduckgo.com-xs.jpg 300w ,https://draw4life.fr/media/posts/11/responsive/external-content.duckduckgo.com-sm.jpg 480w ,https://draw4life.fr/media/posts/11/responsive/external-content.duckduckgo.com-md.jpg 768w ,https://draw4life.fr/media/posts/11/responsive/external-content.duckduckgo.com-lg.jpg 1024w ,https://draw4life.fr/media/posts/11/responsive/external-content.duckduckgo.com-xl.jpg 1360w ,https://draw4life.fr/media/posts/11/responsive/external-content.duckduckgo.com-2xl.jpg 1600w\"  alt=\"The Autumn Of Central Paris [R.B. Kitaj]\" width=\"600\" height=\"600\">\n<figcaption ></figcaption>\n</figure>\n<p> </p>\n<p>Bonne visite à vous</p>",
             "author": {
                 "name": "v_draw"
             },
             "tags": [
             ],
             "date_published": "2022-01-29T23:40:16+01:00",
-            "date_modified": "2022-02-02T19:08:23+01:00"
+            "date_modified": "2022-02-02T23:42:41+01:00"
         },
         {
-            "id": "https://vincentrs92.github.io/Draw4Life/paris-expositions.html",
-            "url": "https://vincentrs92.github.io/Draw4Life/paris-expositions.html",
+            "id": "https://draw4life.fr/paris-expositions.html",
+            "url": "https://draw4life.fr/paris-expositions.html",
             "title": "Paris [expositions]",
             "author": {
                 "name": "v_draw"
@@ -109,8 +109,8 @@
             "date_modified": "2022-01-29T23:34:54+01:00"
         },
         {
-            "id": "https://vincentrs92.github.io/Draw4Life/expositions-permanentes.html",
-            "url": "https://vincentrs92.github.io/Draw4Life/expositions-permanentes.html",
+            "id": "https://draw4life.fr/expositions-permanentes.html",
+            "url": "https://draw4life.fr/expositions-permanentes.html",
             "title": "Expositions Permanentes",
             "author": {
                 "name": "v_draw"
@@ -121,8 +121,8 @@
             "date_modified": "2022-01-29T23:35:03+01:00"
         },
         {
-            "id": "https://vincentrs92.github.io/Draw4Life/dessins-du-mois.html",
-            "url": "https://vincentrs92.github.io/Draw4Life/dessins-du-mois.html",
+            "id": "https://draw4life.fr/dessins-du-mois.html",
+            "url": "https://draw4life.fr/dessins-du-mois.html",
             "title": "Dessins du mois",
             "author": {
                 "name": "v_draw"
