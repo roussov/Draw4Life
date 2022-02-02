@@ -3,12 +3,84 @@
     <title>draw4life</title>
     <link href="https://vincentrs92.github.io/Draw4Life/feed.xml" rel="self" />
     <link href="https://vincentrs92.github.io/Draw4Life" />
-    <updated>2022-01-29T23:48:01+01:00</updated>
+    <updated>2022-02-02T19:18:19+01:00</updated>
     <author>
         <name>v_draw</name>
     </author>
     <id>https://vincentrs92.github.io/Draw4Life</id>
 
+    <entry>
+        <title>Vincent Rousseau</title>
+        <author>
+            <name>v_draw</name>
+        </author>
+        <link href="https://vincentrs92.github.io/Draw4Life/vincent-rousseau.html"/>
+        <id>https://vincentrs92.github.io/Draw4Life/vincent-rousseau.html</id>
+
+        <updated>2022-02-02T19:18:19+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Contact</title>
+        <author>
+            <name>v_draw</name>
+        </author>
+        <link href="https://vincentrs92.github.io/Draw4Life/contact.html"/>
+        <id>https://vincentrs92.github.io/Draw4Life/contact.html</id>
+
+        <updated>2022-02-02T19:16:23+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Merci à vous</title>
+        <author>
+            <name>v_draw</name>
+        </author>
+        <link href="https://vincentrs92.github.io/Draw4Life/merci-a-vous.html"/>
+        <id>https://vincentrs92.github.io/Draw4Life/merci-a-vous.html</id>
+
+        <updated>2022-02-02T19:13:12+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Archive 2022</title>
+        <author>
+            <name>v_draw</name>
+        </author>
+        <link href="https://vincentrs92.github.io/Draw4Life/archive-2022-2.html"/>
+        <id>https://vincentrs92.github.io/Draw4Life/archive-2022-2.html</id>
+
+        <updated>2022-02-02T19:11:40+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Archives</title>
+        <author>
+            <name>v_draw</name>
+        </author>
+        <link href="https://vincentrs92.github.io/Draw4Life/archive-2022.html"/>
+        <id>https://vincentrs92.github.io/Draw4Life/archive-2022.html</id>
+
+        <updated>2022-02-02T19:11:29+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Contributions</title>
+        <author>
+            <name>v_draw</name>
+        </author>
+        <link href="https://vincentrs92.github.io/Draw4Life/contribution.html"/>
+        <id>https://vincentrs92.github.io/Draw4Life/contribution.html</id>
+
+        <updated>2022-02-02T19:15:29+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Bienvenue</title>
         <author>
@@ -17,9 +89,37 @@
         <link href="https://vincentrs92.github.io/Draw4Life/bienvenue.html"/>
         <id>https://vincentrs92.github.io/Draw4Life/bienvenue.html</id>
 
-        <updated>2022-01-29T23:45:38+01:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2022-02-02T19:08:23+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Draw4Life est un blog autour de l’art. Vous pouvez y trouver des œuvres d’artistes classées en fonction de leurs styles. Le site vous accompagne aussi lors de vos prochaines visites. Les articles liés aux visites présenteront les expositions permanentes dans la ville de votre choix.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Draw4Life est un blog autour de l’art.</p>
+<p>Vous pouvez y trouver des œuvres d’artistes classées en fonction de leurs styles.</p>
+<p>Le site vous accompagne aussi lors de vos prochaines visites. Les articles liés aux visites présenteront les expositions permanentes dans la ville de votre choix.</p>
+<p>Les expositions temporaires apparaîtront sur le fil d’actualité en fonction du mois de leurs parutions.</p>
+<p> </p>
+<hr>
+<p>Ici la contribution du visiteur est très importante.</p>
+<p>Votre rôle n’est pas limité, vous pouvez :</p>
+<ul>
+<li>Proposer des idées pour l’amélioration du contenu du site.</li>
+<li>Contribuer à la modification des articles. Votre nom apparaîtra sur la page de « Contribution du site ».</li>
+<li>Envoyer vos travaux (lire le règlement).</li>
+</ul>
+<p> </p>
+<p> </p>
+<p>Le site propose un espace réservé aux commentaires à la fin de chaque article.</p>
+<p>Le service s’appelle Disqus.</p>
+<p> </p>
+<figure class="post__image"><img loading="lazy"  src="https://vincentrs92.github.io/Draw4Life/media/posts/11/external-content.duckduckgo.com.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://vincentrs92.github.io/Draw4Life/media/posts/11/responsive/external-content.duckduckgo.com-xs.jpg 300w ,https://vincentrs92.github.io/Draw4Life/media/posts/11/responsive/external-content.duckduckgo.com-sm.jpg 480w ,https://vincentrs92.github.io/Draw4Life/media/posts/11/responsive/external-content.duckduckgo.com-md.jpg 768w ,https://vincentrs92.github.io/Draw4Life/media/posts/11/responsive/external-content.duckduckgo.com-lg.jpg 1024w ,https://vincentrs92.github.io/Draw4Life/media/posts/11/responsive/external-content.duckduckgo.com-xl.jpg 1360w ,https://vincentrs92.github.io/Draw4Life/media/posts/11/responsive/external-content.duckduckgo.com-2xl.jpg 1600w"  alt="The Autumn Of Central Paris [R.B. Kitaj]" width="1387" height="1468"></figure>
+<p> </p>
+<p>Bonne visite à vous</p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Paris [expositions]</title>
@@ -56,88 +156,5 @@
         <updated>2022-01-29T23:34:06+01:00</updated>
             <summary></summary>
         <content></content>
-    </entry>
-    <entry>
-        <title>Juillet</title>
-        <author>
-            <name>v_draw</name>
-        </author>
-        <link href="https://vincentrs92.github.io/Draw4Life/juillet.html"/>
-        <id>https://vincentrs92.github.io/Draw4Life/juillet.html</id>
-
-        <updated>2022-01-29T23:30:01+01:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Juin</title>
-        <author>
-            <name>v_draw</name>
-        </author>
-        <link href="https://vincentrs92.github.io/Draw4Life/juin.html"/>
-        <id>https://vincentrs92.github.io/Draw4Life/juin.html</id>
-
-        <updated>2022-01-29T23:29:52+01:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Mai</title>
-        <author>
-            <name>v_draw</name>
-        </author>
-        <link href="https://vincentrs92.github.io/Draw4Life/mai.html"/>
-        <id>https://vincentrs92.github.io/Draw4Life/mai.html</id>
-
-        <updated>2022-01-29T23:29:45+01:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Avril</title>
-        <author>
-            <name>v_draw</name>
-        </author>
-        <link href="https://vincentrs92.github.io/Draw4Life/avril.html"/>
-        <id>https://vincentrs92.github.io/Draw4Life/avril.html</id>
-
-        <updated>2022-01-29T23:29:41+01:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Mars</title>
-        <author>
-            <name>v_draw</name>
-        </author>
-        <link href="https://vincentrs92.github.io/Draw4Life/mars.html"/>
-        <id>https://vincentrs92.github.io/Draw4Life/mars.html</id>
-
-        <updated>2022-01-29T23:29:33+01:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Février</title>
-        <author>
-            <name>v_draw</name>
-        </author>
-        <link href="https://vincentrs92.github.io/Draw4Life/fevrier.html"/>
-        <id>https://vincentrs92.github.io/Draw4Life/fevrier.html</id>
-
-        <updated>2022-01-29T23:48:01+01:00</updated>
-            <summary>
-                <![CDATA[
-                     Tandis que tout avance autour de lui. Le vieil homme reste bercé par les vagues de son cœur. Aucune amertume juste une simple nostalgie. 
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <blockquote>
-<p>Tandis que tout avance autour de lui. <br>Le vieil homme reste bercé par les vagues <br>de son cœur. <br>Aucune amertume juste une simple nostalgie.</p>
-<figure class="post__image"><img loading="lazy"  src="https://vincentrs92.github.io/Draw4Life/media/posts/2/IMG-20211218-WA0005.jpeg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://vincentrs92.github.io/Draw4Life/media/posts/2/responsive/IMG-20211218-WA0005-xs.jpeg 300w ,https://vincentrs92.github.io/Draw4Life/media/posts/2/responsive/IMG-20211218-WA0005-sm.jpeg 480w ,https://vincentrs92.github.io/Draw4Life/media/posts/2/responsive/IMG-20211218-WA0005-md.jpeg 768w ,https://vincentrs92.github.io/Draw4Life/media/posts/2/responsive/IMG-20211218-WA0005-lg.jpeg 1024w ,https://vincentrs92.github.io/Draw4Life/media/posts/2/responsive/IMG-20211218-WA0005-xl.jpeg 1360w ,https://vincentrs92.github.io/Draw4Life/media/posts/2/responsive/IMG-20211218-WA0005-2xl.jpeg 1600w"  alt="Le vieux loup de Mer" width="1998" height="1519"></figure>
-</blockquote>
-            ]]>
-        </content>
     </entry>
 </feed>

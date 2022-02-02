@@ -11,16 +11,90 @@
     },
     "items": [
         {
+            "id": "https://vincentrs92.github.io/Draw4Life/vincent-rousseau.html",
+            "url": "https://vincentrs92.github.io/Draw4Life/vincent-rousseau.html",
+            "title": "Vincent Rousseau",
+            "author": {
+                "name": "v_draw"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-02-02T19:18:19+01:00",
+            "date_modified": "2022-02-02T19:18:19+01:00"
+        },
+        {
+            "id": "https://vincentrs92.github.io/Draw4Life/contact.html",
+            "url": "https://vincentrs92.github.io/Draw4Life/contact.html",
+            "title": "Contact",
+            "author": {
+                "name": "v_draw"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-02-02T19:16:23+01:00",
+            "date_modified": "2022-02-02T19:16:23+01:00"
+        },
+        {
+            "id": "https://vincentrs92.github.io/Draw4Life/merci-a-vous.html",
+            "url": "https://vincentrs92.github.io/Draw4Life/merci-a-vous.html",
+            "title": "Merci à vous",
+            "author": {
+                "name": "v_draw"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-02-02T19:13:12+01:00",
+            "date_modified": "2022-02-02T19:13:12+01:00"
+        },
+        {
+            "id": "https://vincentrs92.github.io/Draw4Life/archive-2022-2.html",
+            "url": "https://vincentrs92.github.io/Draw4Life/archive-2022-2.html",
+            "title": "Archive 2022",
+            "author": {
+                "name": "v_draw"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-02-02T19:11:40+01:00",
+            "date_modified": "2022-02-02T19:11:40+01:00"
+        },
+        {
+            "id": "https://vincentrs92.github.io/Draw4Life/archive-2022.html",
+            "url": "https://vincentrs92.github.io/Draw4Life/archive-2022.html",
+            "title": "Archives",
+            "author": {
+                "name": "v_draw"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-02-02T19:09:24+01:00",
+            "date_modified": "2022-02-02T19:11:29+01:00"
+        },
+        {
+            "id": "https://vincentrs92.github.io/Draw4Life/contribution.html",
+            "url": "https://vincentrs92.github.io/Draw4Life/contribution.html",
+            "title": "Contributions",
+            "author": {
+                "name": "v_draw"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-02-02T19:08:55+01:00",
+            "date_modified": "2022-02-02T19:15:29+01:00"
+        },
+        {
             "id": "https://vincentrs92.github.io/Draw4Life/bienvenue.html",
             "url": "https://vincentrs92.github.io/Draw4Life/bienvenue.html",
             "title": "Bienvenue",
+            "summary": "Draw4Life est un blog autour de l’art. Vous pouvez y trouver des œuvres d’artistes classées en fonction de leurs styles. Le site vous accompagne aussi lors de vos prochaines visites. Les articles liés aux visites présenteront les expositions permanentes dans la ville de votre choix.",
+            "content_html": "<p>Draw4Life est un blog autour de l’art.</p>\n<p>Vous pouvez y trouver des œuvres d’artistes classées en fonction de leurs styles.</p>\n<p>Le site vous accompagne aussi lors de vos prochaines visites. Les articles liés aux visites présenteront les expositions permanentes dans la ville de votre choix.</p>\n<p>Les expositions temporaires apparaîtront sur le fil d’actualité en fonction du mois de leurs parutions.</p>\n<p> </p>\n<hr>\n<p>Ici la contribution du visiteur est très importante.</p>\n<p>Votre rôle n’est pas limité, vous pouvez :</p>\n<ul>\n<li>Proposer des idées pour l’amélioration du contenu du site.</li>\n<li>Contribuer à la modification des articles. Votre nom apparaîtra sur la page de « Contribution du site ».</li>\n<li>Envoyer vos travaux (lire le règlement).</li>\n</ul>\n<p> </p>\n<p> </p>\n<p>Le site propose un espace réservé aux commentaires à la fin de chaque article.</p>\n<p>Le service s’appelle Disqus.</p>\n<p> </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://vincentrs92.github.io/Draw4Life/media/posts/11/external-content.duckduckgo.com.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://vincentrs92.github.io/Draw4Life/media/posts/11/responsive/external-content.duckduckgo.com-xs.jpg 300w ,https://vincentrs92.github.io/Draw4Life/media/posts/11/responsive/external-content.duckduckgo.com-sm.jpg 480w ,https://vincentrs92.github.io/Draw4Life/media/posts/11/responsive/external-content.duckduckgo.com-md.jpg 768w ,https://vincentrs92.github.io/Draw4Life/media/posts/11/responsive/external-content.duckduckgo.com-lg.jpg 1024w ,https://vincentrs92.github.io/Draw4Life/media/posts/11/responsive/external-content.duckduckgo.com-xl.jpg 1360w ,https://vincentrs92.github.io/Draw4Life/media/posts/11/responsive/external-content.duckduckgo.com-2xl.jpg 1600w\"  alt=\"The Autumn Of Central Paris [R.B. Kitaj]\" width=\"1387\" height=\"1468\"></figure>\n<p> </p>\n<p>Bonne visite à vous</p>",
             "author": {
                 "name": "v_draw"
             },
             "tags": [
             ],
             "date_published": "2022-01-29T23:40:16+01:00",
-            "date_modified": "2022-01-29T23:45:38+01:00"
+            "date_modified": "2022-02-02T19:08:23+01:00"
         },
         {
             "id": "https://vincentrs92.github.io/Draw4Life/paris-expositions.html",
@@ -57,80 +131,6 @@
             ],
             "date_published": "2022-01-29T23:34:06+01:00",
             "date_modified": "2022-01-29T23:34:06+01:00"
-        },
-        {
-            "id": "https://vincentrs92.github.io/Draw4Life/juillet.html",
-            "url": "https://vincentrs92.github.io/Draw4Life/juillet.html",
-            "title": "Juillet",
-            "author": {
-                "name": "v_draw"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-01-29T23:30:01+01:00",
-            "date_modified": "2022-01-29T23:30:01+01:00"
-        },
-        {
-            "id": "https://vincentrs92.github.io/Draw4Life/juin.html",
-            "url": "https://vincentrs92.github.io/Draw4Life/juin.html",
-            "title": "Juin",
-            "author": {
-                "name": "v_draw"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-01-29T23:29:52+01:00",
-            "date_modified": "2022-01-29T23:29:52+01:00"
-        },
-        {
-            "id": "https://vincentrs92.github.io/Draw4Life/mai.html",
-            "url": "https://vincentrs92.github.io/Draw4Life/mai.html",
-            "title": "Mai",
-            "author": {
-                "name": "v_draw"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-01-29T23:29:45+01:00",
-            "date_modified": "2022-01-29T23:29:45+01:00"
-        },
-        {
-            "id": "https://vincentrs92.github.io/Draw4Life/avril.html",
-            "url": "https://vincentrs92.github.io/Draw4Life/avril.html",
-            "title": "Avril",
-            "author": {
-                "name": "v_draw"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-01-29T23:29:41+01:00",
-            "date_modified": "2022-01-29T23:29:41+01:00"
-        },
-        {
-            "id": "https://vincentrs92.github.io/Draw4Life/mars.html",
-            "url": "https://vincentrs92.github.io/Draw4Life/mars.html",
-            "title": "Mars",
-            "author": {
-                "name": "v_draw"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-01-29T23:29:33+01:00",
-            "date_modified": "2022-01-29T23:29:33+01:00"
-        },
-        {
-            "id": "https://vincentrs92.github.io/Draw4Life/fevrier.html",
-            "url": "https://vincentrs92.github.io/Draw4Life/fevrier.html",
-            "title": "Février",
-            "summary": " Tandis que tout avance autour de lui. Le vieil homme reste bercé par les vagues de son cœur. Aucune amertume juste une simple nostalgie. ",
-            "content_html": "<blockquote>\n<p>Tandis que tout avance autour de lui. <br>Le vieil homme reste bercé par les vagues <br>de son cœur. <br>Aucune amertume juste une simple nostalgie.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://vincentrs92.github.io/Draw4Life/media/posts/2/IMG-20211218-WA0005.jpeg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://vincentrs92.github.io/Draw4Life/media/posts/2/responsive/IMG-20211218-WA0005-xs.jpeg 300w ,https://vincentrs92.github.io/Draw4Life/media/posts/2/responsive/IMG-20211218-WA0005-sm.jpeg 480w ,https://vincentrs92.github.io/Draw4Life/media/posts/2/responsive/IMG-20211218-WA0005-md.jpeg 768w ,https://vincentrs92.github.io/Draw4Life/media/posts/2/responsive/IMG-20211218-WA0005-lg.jpeg 1024w ,https://vincentrs92.github.io/Draw4Life/media/posts/2/responsive/IMG-20211218-WA0005-xl.jpeg 1360w ,https://vincentrs92.github.io/Draw4Life/media/posts/2/responsive/IMG-20211218-WA0005-2xl.jpeg 1600w\"  alt=\"Le vieux loup de Mer\" width=\"1998\" height=\"1519\"></figure>\n</blockquote>",
-            "author": {
-                "name": "v_draw"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-01-29T23:29:26+01:00",
-            "date_modified": "2022-01-29T23:48:01+01:00"
         }
     ]
 }
