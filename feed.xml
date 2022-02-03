@@ -3,7 +3,7 @@
     <title>draw4life</title>
     <link href="https://draw4life.fr/feed.xml" rel="self" />
     <link href="https://draw4life.fr" />
-    <updated>2022-02-03T01:09:25+01:00</updated>
+    <updated>2022-02-03T01:17:33+01:00</updated>
     <author>
         <name>v_draw</name>
     </author>
@@ -136,9 +136,21 @@
         <link href="https://draw4life.fr/contribution.html"/>
         <id>https://draw4life.fr/contribution.html</id>
 
-        <updated>2022-02-02T19:15:29+01:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2022-02-03T01:17:33+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Contributions Artistique 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2 class="align-center">Contributions Artistique</h2>
+<h4 class="align-center"> </h4>
+<p> </p>
+<hr>
+<p> </p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Bienvenue</title>
