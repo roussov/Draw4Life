@@ -3,7 +3,7 @@
     <title>draw4life</title>
     <link href="https://draw4life.fr/feed.xml" rel="self" />
     <link href="https://draw4life.fr" />
-    <updated>2022-02-05T13:46:56+01:00</updated>
+    <updated>2022-02-05T13:51:56+01:00</updated>
     <author>
         <name>v_draw</name>
     </author>
@@ -29,7 +29,7 @@
         <link href="https://draw4life.fr/centre-georges-pompidou.html"/>
         <id>https://draw4life.fr/centre-georges-pompidou.html</id>
 
-        <updated>2022-02-05T13:40:37+01:00</updated>
+        <updated>2022-02-05T13:51:56+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://draw4life.fr/media/posts/20/centre-pompidou-2.jpg" alt="centre pompidou" />
@@ -58,7 +58,7 @@
 <p><code>Vidéos</code></p>
 <p> </p>
 </div>
-<div class="html5-video-container" data-layer="0"><video loading="lazy" width="300" height="150" tabindex="-1" class="video-stream html5-main-video" controlslist="nodownload" src="blob:https://www.youtube.com/5e3edc79-b3f4-4497-a124-c27e3d999088" data-mce-fragment="1"></video></div>
+<div class="html5-video-container" data-layer="0"><video loading="lazy" width="300" height="150" tabindex="-1" class="video-stream html5-main-video" controlslist="nodownload" data-mce-fragment="1"><source src="https://www.youtube.com/embed/83fAnw-FyZs" /></video></div>
 <div data-layer="0"> </div>
 <div class="ytp-chrome-top" data-layer="1">
 <div class="ytp-chrome-top-buttons"> </div>
