@@ -29,6 +29,26 @@
 </image:image>
 </url>
 <url>
+<loc>https://draw4life.fr/centre-georges-pompidou.html</loc>
+<lastmod>2022-02-05T13:40:37+01:00</lastmod>
+<image:image>
+<image:loc>https://draw4life.fr/media\posts\20/centre-pompidou-2.jpg</image:loc>
+<image:title><![CDATA[centre pompidou]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://draw4life.fr/media\posts\20/Le_logo_du_Centre_Pompidou_redessine_en_2019_5_bandes.svg.png</image:loc>
+<image:title><![CDATA[Logo]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://draw4life.fr/media\posts\20/google-maps-logo-2020.zip</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://draw4life.fr/media\posts\20/google-maps-logo-2020.svg</image:loc>
+<image:title><![CDATA[localisation ico]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>https://draw4life.fr/contact.html</loc>
 <lastmod>2022-02-02T19:16:23+01:00</lastmod>
 </url>
@@ -69,6 +89,10 @@
 </image:image>
 </url>
 <url>
+<loc>https://draw4life.fr/informations.html</loc>
+<lastmod>2022-02-05T13:46:56+01:00</lastmod>
+</url>
+<url>
 <loc>https://draw4life.fr/juillet.html</loc>
 <lastmod>2022-01-29T23:30:01+01:00</lastmod>
 </url>
@@ -90,7 +114,11 @@
 </url>
 <url>
 <loc>https://draw4life.fr/midori-shujo-tsubaki.html</loc>
-<lastmod>2022-02-03T01:24:32+01:00</lastmod>
+<lastmod>2022-02-05T13:41:06+01:00</lastmod>
+<image:image>
+<image:loc>https://draw4life.fr/media\posts\18/cover-midori.jpg</image:loc>
+<image:title><![CDATA[Midori]]></image:title>
+</image:image>
 <image:image>
 <image:loc>https://draw4life.fr/media\posts\18/external-content.duckduckgo.com.png</image:loc>
 <image:title><![CDATA[(Shoujo Tsubaki) ou &quot;La Jeune fille aux camélias&quot;]]></image:title>
@@ -124,6 +152,9 @@
 </url>
 <url>
 <loc>https://draw4life.fr/page/4/</loc>
+</url>
+<url>
+<loc>https://draw4life.fr/page/5/</loc>
 </url>
 <url>
 <loc>https://draw4life.fr/paris-expositions.html</loc>
