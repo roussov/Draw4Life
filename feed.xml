@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>draw4life</title>
     <link href="https://draw4life.fr/feed.xml" rel="self" />
     <link href="https://draw4life.fr" />
@@ -16,6 +16,7 @@
         </author>
         <link href="https://draw4life.fr/20eme-street-art.html"/>
         <id>https://draw4life.fr/20eme-street-art.html</id>
+        <media:content url="https://draw4life.fr/media/posts/24/IMG_2397.JPG" medium="image" />
 
         <updated>2022-02-12T23:35:57+01:00</updated>
             <summary>
@@ -26,7 +27,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://draw4life.fr/media/posts/24/IMG_2397.JPG" alt="&quot;Stop&quot; [No Name]" />
+                    <p><img src="https://draw4life.fr/media/posts/24/IMG_2397.JPG" class="type:primaryImage" alt="&quot;Stop&quot; [No Name]" /></p>
                 <h2 class="align-center">Street Art</h2>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
 <figure class="gallery__item"><a href="https://draw4life.fr/media/posts/24/gallery/IMG_2367.JPG" data-size="5152x3864"><img loading="lazy" src="https://draw4life.fr/media/posts/24/gallery/IMG_2367-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
@@ -37,11 +38,11 @@
 <figure class="gallery__item"><a href="https://draw4life.fr/media/posts/24/gallery/IMG_2380.JPG" data-size="5152x3864"><img loading="lazy" src="https://draw4life.fr/media/posts/24/gallery/IMG_2380-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
 </div></div>
 <p>Oeuvres de l'artiste Don Pablo Pedro</p>
-<figure class="post__image"><img loading="lazy"  src="https://draw4life.fr/media/posts/24/DonPabloPedro_TimHans01.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://draw4life.fr/media/posts/24/responsive/DonPabloPedro_TimHans01-xs.jpg 300w ,https://draw4life.fr/media/posts/24/responsive/DonPabloPedro_TimHans01-sm.jpg 480w ,https://draw4life.fr/media/posts/24/responsive/DonPabloPedro_TimHans01-md.jpg 768w ,https://draw4life.fr/media/posts/24/responsive/DonPabloPedro_TimHans01-lg.jpg 1024w ,https://draw4life.fr/media/posts/24/responsive/DonPabloPedro_TimHans01-xl.jpg 1360w ,https://draw4life.fr/media/posts/24/responsive/DonPabloPedro_TimHans01-2xl.jpg 1600w"  alt="Don Pablo Pedro Artiste [Street Art]" width="118" height="177"></figure><em> [Je prépa</em><em>re la bio de l'artiste ] | Toute aide apportée serait la bienvenue  </em></p>
+<figure class="post__image"><img loading="lazy"  src="https://draw4life.fr/media/posts/24/DonPabloPedro_TimHans01.jpg" alt="Don Pablo Pedro Artiste [Street Art]" width="118" height="177" sizes="(max-width: 48em) 100vw, 768px" srcset="https://draw4life.fr/media/posts/24/responsive/DonPabloPedro_TimHans01-xs.jpg 300w ,https://draw4life.fr/media/posts/24/responsive/DonPabloPedro_TimHans01-sm.jpg 480w ,https://draw4life.fr/media/posts/24/responsive/DonPabloPedro_TimHans01-md.jpg 768w ,https://draw4life.fr/media/posts/24/responsive/DonPabloPedro_TimHans01-lg.jpg 1024w ,https://draw4life.fr/media/posts/24/responsive/DonPabloPedro_TimHans01-xl.jpg 1360w ,https://draw4life.fr/media/posts/24/responsive/DonPabloPedro_TimHans01-2xl.jpg 1600w"></figure><em> [Je prépa</em><em>re la bio de l'artiste ] | Toute aide apportée serait la bienvenue  </em></p>
 <hr>
 <h4><code>Space Invaders</code></h4>
 <p><em>[Je prépa</em><em>re un article sur ce sujet ] | Toute aide apportée serait la bienvenue</em></p>
-<figure class="post__image"><img loading="lazy"  src="https://draw4life.fr/media/posts/24/IMG_2384.JPG" sizes="(max-width: 48em) 100vw, 768px" srcset="https://draw4life.fr/media/posts/24/responsive/IMG_2384-xs.JPG 300w ,https://draw4life.fr/media/posts/24/responsive/IMG_2384-sm.JPG 480w ,https://draw4life.fr/media/posts/24/responsive/IMG_2384-md.JPG 768w ,https://draw4life.fr/media/posts/24/responsive/IMG_2384-lg.JPG 1024w ,https://draw4life.fr/media/posts/24/responsive/IMG_2384-xl.JPG 1360w ,https://draw4life.fr/media/posts/24/responsive/IMG_2384-2xl.JPG 1600w"  alt="Space Inv" width="295" height="221"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://draw4life.fr/media/posts/24/IMG_2384.JPG" alt="Space Inv" width="295" height="221" sizes="(max-width: 48em) 100vw, 768px" srcset="https://draw4life.fr/media/posts/24/responsive/IMG_2384-xs.JPG 300w ,https://draw4life.fr/media/posts/24/responsive/IMG_2384-sm.JPG 480w ,https://draw4life.fr/media/posts/24/responsive/IMG_2384-md.JPG 768w ,https://draw4life.fr/media/posts/24/responsive/IMG_2384-lg.JPG 1024w ,https://draw4life.fr/media/posts/24/responsive/IMG_2384-xl.JPG 1360w ,https://draw4life.fr/media/posts/24/responsive/IMG_2384-2xl.JPG 1600w"></figure>
 <p><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Entre temps trouvez les tous et envoyez le plus beau cliché. </span></p>
 <p><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"><a href="https://www.space-invaders.com/world/paris/">https://www.space-invaders.com/world/paris/</a></span></p>
 <hr>
@@ -53,8 +54,8 @@
 <p>C'est en 2011 s'est rendu en Tunisie lors du printemps arabe. Durant plusieurs semaines il a réalisé des portraits  représentants les martyrs. Il s'est rendu ensuite proche de la frontière libyenne pour dessiner les visages des réfugiés.</p>
 <p>Poussé par la volonté, il a continué son aventure vers les Etats Unis. Ce fut arrivé  à Détroit qu'il fut assassiné à l'age de 23ans.</p>
 <p><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"><a href="https://www.zoo-project.com/hommage/en/zoo-project/">https://www.zoo-project.com/hommage/en/zoo-project/</a></span></p>
-<figure class="post__image"><img loading="lazy"  src="https://draw4life.fr/media/posts/24/IMG_2385.JPG" sizes="(max-width: 48em) 100vw, 768px" srcset="https://draw4life.fr/media/posts/24/responsive/IMG_2385-xs.JPG 300w ,https://draw4life.fr/media/posts/24/responsive/IMG_2385-sm.JPG 480w ,https://draw4life.fr/media/posts/24/responsive/IMG_2385-md.JPG 768w ,https://draw4life.fr/media/posts/24/responsive/IMG_2385-lg.JPG 1024w ,https://draw4life.fr/media/posts/24/responsive/IMG_2385-xl.JPG 1360w ,https://draw4life.fr/media/posts/24/responsive/IMG_2385-2xl.JPG 1600w"  alt="Zoo Project " width="5152" height="3864"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://draw4life.fr/media/posts/24/external-content.duckduckgo.com-2.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://draw4life.fr/media/posts/24/responsive/external-content.duckduckgo.com-2-xs.jpg 300w ,https://draw4life.fr/media/posts/24/responsive/external-content.duckduckgo.com-2-sm.jpg 480w ,https://draw4life.fr/media/posts/24/responsive/external-content.duckduckgo.com-2-md.jpg 768w ,https://draw4life.fr/media/posts/24/responsive/external-content.duckduckgo.com-2-lg.jpg 1024w ,https://draw4life.fr/media/posts/24/responsive/external-content.duckduckgo.com-2-xl.jpg 1360w ,https://draw4life.fr/media/posts/24/responsive/external-content.duckduckgo.com-2-2xl.jpg 1600w"  alt="" width="242" height="161"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://draw4life.fr/media/posts/24/IMG_2385.JPG" alt="Zoo Project " width="5152" height="3864" sizes="(max-width: 48em) 100vw, 768px" srcset="https://draw4life.fr/media/posts/24/responsive/IMG_2385-xs.JPG 300w ,https://draw4life.fr/media/posts/24/responsive/IMG_2385-sm.JPG 480w ,https://draw4life.fr/media/posts/24/responsive/IMG_2385-md.JPG 768w ,https://draw4life.fr/media/posts/24/responsive/IMG_2385-lg.JPG 1024w ,https://draw4life.fr/media/posts/24/responsive/IMG_2385-xl.JPG 1360w ,https://draw4life.fr/media/posts/24/responsive/IMG_2385-2xl.JPG 1600w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://draw4life.fr/media/posts/24/external-content.duckduckgo.com-2.jpg" alt="" width="242" height="161" sizes="(max-width: 48em) 100vw, 768px" srcset="https://draw4life.fr/media/posts/24/responsive/external-content.duckduckgo.com-2-xs.jpg 300w ,https://draw4life.fr/media/posts/24/responsive/external-content.duckduckgo.com-2-sm.jpg 480w ,https://draw4life.fr/media/posts/24/responsive/external-content.duckduckgo.com-2-md.jpg 768w ,https://draw4life.fr/media/posts/24/responsive/external-content.duckduckgo.com-2-lg.jpg 1024w ,https://draw4life.fr/media/posts/24/responsive/external-content.duckduckgo.com-2-xl.jpg 1360w ,https://draw4life.fr/media/posts/24/responsive/external-content.duckduckgo.com-2-2xl.jpg 1600w"></figure>
 <p><em>Zoo Project | Photo (Pinterest)</em></p>
 <hr>
 <p><code>M G L O</code></p>
@@ -112,17 +113,18 @@
         </author>
         <link href="https://draw4life.fr/centre-georges-pompidou.html"/>
         <id>https://draw4life.fr/centre-georges-pompidou.html</id>
+        <media:content url="https://draw4life.fr/media/posts/20/centre-pompidou-2.jpg" medium="image" />
 
         <updated>2022-02-05T13:51:56+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://draw4life.fr/media/posts/20/centre-pompidou-2.jpg" alt="centre pompidou" />
-                     Informations Site officiel : https://www.centrepompidou.fr/fr/ Date de création : 31 janvier 1977 Vidéos https://www.youtube.com/watch?v=83fAnw-FyZs
+                    Informations Site officiel : https://www.centrepompidou.fr/fr/ Date de création : 31 janvier 1977 Vidéos https://www.youtube.com/watch?v=83fAnw-FyZs
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://draw4life.fr/media/posts/20/centre-pompidou-2.jpg" alt="centre pompidou" />
+                    <p><img src="https://draw4life.fr/media/posts/20/centre-pompidou-2.jpg" class="type:primaryImage" alt="centre pompidou" /></p>
                 <div id="player-container" class="style-scope ytd-watch-flexy" role="complementary">
 <div id="container" class="style-scope ytd-player">
 <div id="movie_player" class="html5-video-player ytp-transparent ytp-exp-bottom-control-flexbox ytp-larger-tap-buttons ytp-exp-ppp-update ytp-hide-info-bar ytp-large-width-mode ytp-autonav-endscreen-cancelled-state playing-mode unstarted-mode" tabindex="-1" data-version="/s/player/0cd11746/player_ias.vflset/fr_FR/base.js" aria-label="Lecteur vidéo YouTube">
@@ -131,7 +133,7 @@
 <p class="msg msg--info">Site officiel : <a href="https://www.centrepompidou.fr/fr/">https://www.centrepompidou.fr/fr/</a></p>
 <p class="msg msg--info">Date de création : 31 janvier 1977</p>
 <p class="msg msg--info"> </p>
-<address><figure class="post__image"><img loading="lazy"  src="https://draw4life.fr/media/posts/20/Le_logo_du_Centre_Pompidou_redessine_en_2019_5_bandes.svg.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://draw4life.fr/media/posts/20/responsive/Le_logo_du_Centre_Pompidou_redessine_en_2019_5_bandes.svg-xs.png 300w ,https://draw4life.fr/media/posts/20/responsive/Le_logo_du_Centre_Pompidou_redessine_en_2019_5_bandes.svg-sm.png 480w ,https://draw4life.fr/media/posts/20/responsive/Le_logo_du_Centre_Pompidou_redessine_en_2019_5_bandes.svg-md.png 768w ,https://draw4life.fr/media/posts/20/responsive/Le_logo_du_Centre_Pompidou_redessine_en_2019_5_bandes.svg-lg.png 1024w ,https://draw4life.fr/media/posts/20/responsive/Le_logo_du_Centre_Pompidou_redessine_en_2019_5_bandes.svg-xl.png 1360w ,https://draw4life.fr/media/posts/20/responsive/Le_logo_du_Centre_Pompidou_redessine_en_2019_5_bandes.svg-2xl.png 1600w"  alt="Logo" width="130" height="92"></figure><em>logo du site</em></address>
+<address><figure class="post__image"><img loading="lazy"  src="https://draw4life.fr/media/posts/20/Le_logo_du_Centre_Pompidou_redessine_en_2019_5_bandes.svg.png" alt="Logo" width="130" height="92" sizes="(max-width: 48em) 100vw, 768px" srcset="https://draw4life.fr/media/posts/20/responsive/Le_logo_du_Centre_Pompidou_redessine_en_2019_5_bandes.svg-xs.png 300w ,https://draw4life.fr/media/posts/20/responsive/Le_logo_du_Centre_Pompidou_redessine_en_2019_5_bandes.svg-sm.png 480w ,https://draw4life.fr/media/posts/20/responsive/Le_logo_du_Centre_Pompidou_redessine_en_2019_5_bandes.svg-md.png 768w ,https://draw4life.fr/media/posts/20/responsive/Le_logo_du_Centre_Pompidou_redessine_en_2019_5_bandes.svg-lg.png 1024w ,https://draw4life.fr/media/posts/20/responsive/Le_logo_du_Centre_Pompidou_redessine_en_2019_5_bandes.svg-xl.png 1360w ,https://draw4life.fr/media/posts/20/responsive/Le_logo_du_Centre_Pompidou_redessine_en_2019_5_bandes.svg-2xl.png 1600w"></figure><em>logo du site</em></address>
 <figure class="post__image"><img loading="lazy"  src="https://draw4life.fr/media/posts/20/google-maps-logo-2020.zip" alt=""></figure><a href="https://goo.gl/maps/dUNSn1yd9fEgebE89" target="_blank" rel="noopener noreferrer"><figure class="post__image"><img loading="lazy"  src="https://draw4life.fr/media/posts/20/google-maps-logo-2020.svg" alt="localisation ico" width="64" height="64"></figure></a></p>
 <hr>
 <h6>Expositions</h6>
@@ -273,18 +275,19 @@
         </author>
         <link href="https://draw4life.fr/midori-shujo-tsubaki.html"/>
         <id>https://draw4life.fr/midori-shujo-tsubaki.html</id>
+        <media:content url="https://draw4life.fr/media/posts/18/cover-midori.jpg" medium="image" />
 
         <updated>2022-02-05T13:59:22+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://draw4life.fr/media/posts/18/cover-midori.jpg" alt="Midori" />
-                     Auteur de l'oeuvre: Suehiro Maruo Nombre de pages: 160 Type: Seinen Thème: Horreur Date de sortie: 25 Septembre 1984 Le film a été interdit au Japon Il existe une version française sortie en 2006 c'est la seule version DVD trouvable dans le monde. Résumé:&hellip;
+                    Auteur de l'oeuvre: Suehiro Maruo Nombre de pages: 160 Type: Seinen Thème: Horreur Date de sortie: 25 Septembre 1984 Le film a été interdit au Japon Il existe une version française sortie en 2006 c'est la seule version DVD trouvable dans le monde. Résumé: Midori&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://draw4life.fr/media/posts/18/cover-midori.jpg" alt="Midori" />
-                <figure class="post__image"><img loading="lazy"  src="https://draw4life.fr/media/posts/18/external-content.duckduckgo.com.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://draw4life.fr/media/posts/18/responsive/external-content.duckduckgo.com-xs.png 300w ,https://draw4life.fr/media/posts/18/responsive/external-content.duckduckgo.com-sm.png 480w ,https://draw4life.fr/media/posts/18/responsive/external-content.duckduckgo.com-md.png 768w ,https://draw4life.fr/media/posts/18/responsive/external-content.duckduckgo.com-lg.png 1024w ,https://draw4life.fr/media/posts/18/responsive/external-content.duckduckgo.com-xl.png 1360w ,https://draw4life.fr/media/posts/18/responsive/external-content.duckduckgo.com-2xl.png 1600w"  alt="(Shoujo Tsubaki) ou &quot;La Jeune fille aux camélias&quot;" width="203" height="300"></figure>   <figure class="post__image"><img loading="lazy"  src="https://draw4life.fr/media/posts/18/AVT_Suehiro-Maruo_550.jpeg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://draw4life.fr/media/posts/18/responsive/AVT_Suehiro-Maruo_550-xs.jpeg 300w ,https://draw4life.fr/media/posts/18/responsive/AVT_Suehiro-Maruo_550-sm.jpeg 480w ,https://draw4life.fr/media/posts/18/responsive/AVT_Suehiro-Maruo_550-md.jpeg 768w ,https://draw4life.fr/media/posts/18/responsive/AVT_Suehiro-Maruo_550-lg.jpeg 1024w ,https://draw4life.fr/media/posts/18/responsive/AVT_Suehiro-Maruo_550-xl.jpeg 1360w ,https://draw4life.fr/media/posts/18/responsive/AVT_Suehiro-Maruo_550-2xl.jpeg 1600w"  alt="" width="216" height="300"></figure>
+                    <p><img src="https://draw4life.fr/media/posts/18/cover-midori.jpg" class="type:primaryImage" alt="Midori" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://draw4life.fr/media/posts/18/external-content.duckduckgo.com.png" alt="(Shoujo Tsubaki) ou &quot;La Jeune fille aux camélias&quot;" width="203" height="300" sizes="(max-width: 48em) 100vw, 768px" srcset="https://draw4life.fr/media/posts/18/responsive/external-content.duckduckgo.com-xs.png 300w ,https://draw4life.fr/media/posts/18/responsive/external-content.duckduckgo.com-sm.png 480w ,https://draw4life.fr/media/posts/18/responsive/external-content.duckduckgo.com-md.png 768w ,https://draw4life.fr/media/posts/18/responsive/external-content.duckduckgo.com-lg.png 1024w ,https://draw4life.fr/media/posts/18/responsive/external-content.duckduckgo.com-xl.png 1360w ,https://draw4life.fr/media/posts/18/responsive/external-content.duckduckgo.com-2xl.png 1600w"></figure>   <figure class="post__image"><img loading="lazy"  src="https://draw4life.fr/media/posts/18/AVT_Suehiro-Maruo_550.jpeg" alt="" width="216" height="300" sizes="(max-width: 48em) 100vw, 768px" srcset="https://draw4life.fr/media/posts/18/responsive/AVT_Suehiro-Maruo_550-xs.jpeg 300w ,https://draw4life.fr/media/posts/18/responsive/AVT_Suehiro-Maruo_550-sm.jpeg 480w ,https://draw4life.fr/media/posts/18/responsive/AVT_Suehiro-Maruo_550-md.jpeg 768w ,https://draw4life.fr/media/posts/18/responsive/AVT_Suehiro-Maruo_550-lg.jpeg 1024w ,https://draw4life.fr/media/posts/18/responsive/AVT_Suehiro-Maruo_550-xl.jpeg 1360w ,https://draw4life.fr/media/posts/18/responsive/AVT_Suehiro-Maruo_550-2xl.jpeg 1600w"></figure>
 <p>Auteur de l'oeuvre: <span class="itemreviewed">Suehiro Maruo</span></p>
 <p>Nombre de pages: 160</p>
 <p>Type: Seinen</p>
@@ -294,7 +297,7 @@
 <p>Il existe une version française sortie en 2006 c'est la seule version DVD trouvable dans le monde.</p>
 <p>Résumé: Midori est une jeune orpheline qui travaille dans un cirque ambulant. La malheureuse enfant traverse les épreuves les plus atroces, des tortures physiques ou mentales, elle vit un véritable enfer. Lorsqu'un jour elle rencontre Masamitsu Le Magnifique, dont elle tombe amoureuse. Mais ses malheurs ne s'arrêtent pas là. </p>
 <p>Wikipédia</p>
-<figure class="post__image"><img loading="lazy"  src="https://draw4life.fr/media/posts/18/external-content.duckduckgo.com.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://draw4life.fr/media/posts/18/responsive/external-content.duckduckgo.com-xs.jpg 300w ,https://draw4life.fr/media/posts/18/responsive/external-content.duckduckgo.com-sm.jpg 480w ,https://draw4life.fr/media/posts/18/responsive/external-content.duckduckgo.com-md.jpg 768w ,https://draw4life.fr/media/posts/18/responsive/external-content.duckduckgo.com-lg.jpg 1024w ,https://draw4life.fr/media/posts/18/responsive/external-content.duckduckgo.com-xl.jpg 1360w ,https://draw4life.fr/media/posts/18/responsive/external-content.duckduckgo.com-2xl.jpg 1600w"  alt="Extrait du contenu du manga" width="330" height="471"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://draw4life.fr/media/posts/18/external-content.duckduckgo.com.jpg" alt="Extrait du contenu du manga" width="330" height="471" sizes="(max-width: 48em) 100vw, 768px" srcset="https://draw4life.fr/media/posts/18/responsive/external-content.duckduckgo.com-xs.jpg 300w ,https://draw4life.fr/media/posts/18/responsive/external-content.duckduckgo.com-sm.jpg 480w ,https://draw4life.fr/media/posts/18/responsive/external-content.duckduckgo.com-md.jpg 768w ,https://draw4life.fr/media/posts/18/responsive/external-content.duckduckgo.com-lg.jpg 1024w ,https://draw4life.fr/media/posts/18/responsive/external-content.duckduckgo.com-xl.jpg 1360w ,https://draw4life.fr/media/posts/18/responsive/external-content.duckduckgo.com-2xl.jpg 1600w"></figure>
 <p><em>Contenu du Manga</em></p>
 <p>Mon avis sur l'oeuvre "Shōjo Tsubaki":</p>
 <p>N'ayant pas eut la chance de lire le manga, j'ai regardé l'animé.</p>
@@ -311,9 +314,9 @@
 <p>Les scènes très difficiles à regarder ont été censurées dans cette vidéo:</p>
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/LGsOpWI9Nz8?t=362s" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <p><em>Contenus de l'anime:</em></p>
-<figure class="post__image"><img loading="lazy"  src="https://draw4life.fr/media/posts/18/Capture.PNG" sizes="(max-width: 48em) 100vw, 768px" srcset="https://draw4life.fr/media/posts/18/responsive/Capture-xs.PNG 300w ,https://draw4life.fr/media/posts/18/responsive/Capture-sm.PNG 480w ,https://draw4life.fr/media/posts/18/responsive/Capture-md.PNG 768w ,https://draw4life.fr/media/posts/18/responsive/Capture-lg.PNG 1024w ,https://draw4life.fr/media/posts/18/responsive/Capture-xl.PNG 1360w ,https://draw4life.fr/media/posts/18/responsive/Capture-2xl.PNG 1600w"  alt="" width="236" height="149"></figure><figure class="post__image"><img loading="lazy"  src="https://draw4life.fr/media/posts/18/joke-2.PNG" sizes="(max-width: 48em) 100vw, 768px" srcset="https://draw4life.fr/media/posts/18/responsive/joke-2-xs.PNG 300w ,https://draw4life.fr/media/posts/18/responsive/joke-2-sm.PNG 480w ,https://draw4life.fr/media/posts/18/responsive/joke-2-md.PNG 768w ,https://draw4life.fr/media/posts/18/responsive/joke-2-lg.PNG 1024w ,https://draw4life.fr/media/posts/18/responsive/joke-2-xl.PNG 1360w ,https://draw4life.fr/media/posts/18/responsive/joke-2-2xl.PNG 1600w"  alt="" width="237" height="147"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://draw4life.fr/media/posts/18/Capture.PNG" alt="" width="236" height="149" sizes="(max-width: 48em) 100vw, 768px" srcset="https://draw4life.fr/media/posts/18/responsive/Capture-xs.PNG 300w ,https://draw4life.fr/media/posts/18/responsive/Capture-sm.PNG 480w ,https://draw4life.fr/media/posts/18/responsive/Capture-md.PNG 768w ,https://draw4life.fr/media/posts/18/responsive/Capture-lg.PNG 1024w ,https://draw4life.fr/media/posts/18/responsive/Capture-xl.PNG 1360w ,https://draw4life.fr/media/posts/18/responsive/Capture-2xl.PNG 1600w"></figure><figure class="post__image"><img loading="lazy"  src="https://draw4life.fr/media/posts/18/joke-2.PNG" alt="" width="237" height="147" sizes="(max-width: 48em) 100vw, 768px" srcset="https://draw4life.fr/media/posts/18/responsive/joke-2-xs.PNG 300w ,https://draw4life.fr/media/posts/18/responsive/joke-2-sm.PNG 480w ,https://draw4life.fr/media/posts/18/responsive/joke-2-md.PNG 768w ,https://draw4life.fr/media/posts/18/responsive/joke-2-lg.PNG 1024w ,https://draw4life.fr/media/posts/18/responsive/joke-2-xl.PNG 1360w ,https://draw4life.fr/media/posts/18/responsive/joke-2-2xl.PNG 1600w"></figure>
 <p> </p>
-<figure class="post__image"><img loading="lazy"  src="https://draw4life.fr/media/posts/18/cry-2.PNG" sizes="(max-width: 48em) 100vw, 768px" srcset="https://draw4life.fr/media/posts/18/responsive/cry-2-xs.PNG 300w ,https://draw4life.fr/media/posts/18/responsive/cry-2-sm.PNG 480w ,https://draw4life.fr/media/posts/18/responsive/cry-2-md.PNG 768w ,https://draw4life.fr/media/posts/18/responsive/cry-2-lg.PNG 1024w ,https://draw4life.fr/media/posts/18/responsive/cry-2-xl.PNG 1360w ,https://draw4life.fr/media/posts/18/responsive/cry-2-2xl.PNG 1600w"  alt="" width="235" height="148"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://draw4life.fr/media/posts/18/cry-2.PNG" alt="" width="235" height="148" sizes="(max-width: 48em) 100vw, 768px" srcset="https://draw4life.fr/media/posts/18/responsive/cry-2-xs.PNG 300w ,https://draw4life.fr/media/posts/18/responsive/cry-2-sm.PNG 480w ,https://draw4life.fr/media/posts/18/responsive/cry-2-md.PNG 768w ,https://draw4life.fr/media/posts/18/responsive/cry-2-lg.PNG 1024w ,https://draw4life.fr/media/posts/18/responsive/cry-2-xl.PNG 1360w ,https://draw4life.fr/media/posts/18/responsive/cry-2-2xl.PNG 1600w"></figure>
 <p> </p>
             ]]>
         </content>
