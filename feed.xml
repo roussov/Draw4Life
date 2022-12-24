@@ -3,7 +3,7 @@
     <title>draw4life</title>
     <link href="https://draw4life.fr/feed.xml" rel="self" />
     <link href="https://draw4life.fr" />
-    <updated>2022-02-12T23:35:57+01:00</updated>
+    <updated>2022-12-24T12:42:45+01:00</updated>
     <author>
         <name>v_draw</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://draw4life.fr/20eme-street-art.html</id>
         <media:content url="https://draw4life.fr/media/posts/24/IMG_2397.JPG" medium="image" />
 
-        <updated>2022-02-12T23:35:57+01:00</updated>
+        <updated>2022-12-24T12:39:30+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://draw4life.fr/media/posts/24/IMG_2397.JPG" alt="&quot;Stop&quot; [No Name]" />
@@ -38,7 +38,7 @@
 <figure class="gallery__item"><a href="https://draw4life.fr/media/posts/24/gallery/IMG_2380.JPG" data-size="5152x3864"><img loading="lazy" src="https://draw4life.fr/media/posts/24/gallery/IMG_2380-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
 </div></div>
 <p>Oeuvres de l'artiste Don Pablo Pedro</p>
-<figure class="post__image"><img loading="lazy"  src="https://draw4life.fr/media/posts/24/DonPabloPedro_TimHans01.jpg" alt="Don Pablo Pedro Artiste [Street Art]" width="118" height="177" sizes="(max-width: 48em) 100vw, 768px" srcset="https://draw4life.fr/media/posts/24/responsive/DonPabloPedro_TimHans01-xs.jpg 300w ,https://draw4life.fr/media/posts/24/responsive/DonPabloPedro_TimHans01-sm.jpg 480w ,https://draw4life.fr/media/posts/24/responsive/DonPabloPedro_TimHans01-md.jpg 768w ,https://draw4life.fr/media/posts/24/responsive/DonPabloPedro_TimHans01-lg.jpg 1024w ,https://draw4life.fr/media/posts/24/responsive/DonPabloPedro_TimHans01-xl.jpg 1360w ,https://draw4life.fr/media/posts/24/responsive/DonPabloPedro_TimHans01-2xl.jpg 1600w"></figure><em> [Je prépa</em><em>re la bio de l'artiste ] | Toute aide apportée serait la bienvenue  </em></p>
+<figure class="post__image"><img loading="lazy"  src="https://draw4life.fr/media/posts/24/DonPabloPedro_TimHans01.jpg" alt="Don Pablo Pedro Artiste [Street Art]" width="118" height="177" sizes="(max-width: 48em) 100vw, 768px" srcset="https://draw4life.fr/media/posts/24/responsive/DonPabloPedro_TimHans01-xs.jpg 300w ,https://draw4life.fr/media/posts/24/responsive/DonPabloPedro_TimHans01-sm.jpg 480w ,https://draw4life.fr/media/posts/24/responsive/DonPabloPedro_TimHans01-md.jpg 768w ,https://draw4life.fr/media/posts/24/responsive/DonPabloPedro_TimHans01-lg.jpg 1024w ,https://draw4life.fr/media/posts/24/responsive/DonPabloPedro_TimHans01-xl.jpg 1360w ,https://draw4life.fr/media/posts/24/responsive/DonPabloPedro_TimHans01-2xl.jpg 1600w"></figure><em> </em><em> </em></p>
 <hr>
 <h4><code>Space Invaders</code></h4>
 <p><em>[Je prépa</em><em>re un article sur ce sujet ] | Toute aide apportée serait la bienvenue</em></p>
@@ -77,8 +77,9 @@
         </author>
         <link href="https://draw4life.fr/20eme.html"/>
         <id>https://draw4life.fr/20eme.html</id>
+        <media:content url="https://draw4life.fr/media/posts/23/20th-arrondissement-of-Paris-c-ThePromenader-licence-CC-BY-SA-3.gif" medium="image" />
 
-        <updated>2022-02-12T21:48:14+01:00</updated>
+        <updated>2022-12-24T12:42:45+01:00</updated>
             <summary></summary>
         <content></content>
     </entry>
